@@ -1,4 +1,29 @@
+app-header {
+    text-align: center;
+    color:purple;
+    font-size: 1.5vw;
+}
+
 .box {
+    padding: 15px;
     display: flex;
+    font-size: 2vw; 
+}
+
+app-crew {  
     padding: 10px;
+    border: 3px solid blue;
+    color: blue;  
+}
+
+app-equipment {   
+    padding: 10px; 
+    border: 3px solid red;
+    color: red;    
+}
+
+app-experiments {   
+    padding: 10px; 
+    border: 3px solid limegreen;
+    color: limegreen;      
 }
